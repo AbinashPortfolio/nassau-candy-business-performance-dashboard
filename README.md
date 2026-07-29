@@ -1,5 +1,9 @@
 # 📊 Nassau Candy Distributor Business Performance Dashboard
+## 📷 Dashboard Preview
 
+> Dashboard Screenshot
+
+![Dashboard](dashboard.png)
 ## 📌 Project Overview
 
 This project presents an interactive **Business Performance Dashboard** built in **Microsoft Excel** to analyze sales, profitability, product performance, regional performance, and shipping trends.
@@ -60,11 +64,7 @@ The dashboard enables business users to monitor key performance indicators (KPIs
 
 ---
 
-## 📷 Dashboard Preview
 
-> Dashboard Screenshot
-
-![Dashboard](dashboard.png)
 
 ---
 
